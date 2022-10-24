@@ -1,4 +1,8 @@
-<template>nosotros</template>
+<template>
+  nosotros
+  <br />
+  <router-link to="/"> inicio </router-link>
+</template>
 
 <script>
 export default {

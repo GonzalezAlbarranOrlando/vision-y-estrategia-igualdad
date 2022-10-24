@@ -1,6 +1,10 @@
 <template>
   <MyHeader />
-  <img alt="Vue logo" src="./assets/logo.png" />
+  <br />
+  <br />
+  <router-view></router-view>
+  <br />
+  <br />
   <MyFooter />
 </template>
 

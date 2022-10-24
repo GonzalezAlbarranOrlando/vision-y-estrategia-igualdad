@@ -1,4 +1,8 @@
-<template>contacto</template>
+<template>
+  contacto
+  <br />
+  <router-link to="/"> inicio </router-link>
+</template>
 
 <script>
 export default {
