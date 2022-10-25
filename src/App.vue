@@ -26,4 +26,8 @@ export default {
 <style>
 /*Bootstrap css*/
 @import "bootstrap/dist/css/bootstrap.css";
+/*My css file(s)*/
+@import "@/assets/css/styles.css";
+/*Roboto font*/
+@import "../node_modules/typeface-roboto/index.css";
 </style>
