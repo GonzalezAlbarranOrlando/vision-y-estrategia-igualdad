@@ -11,6 +11,8 @@
 <script>
 import MyFooter from "./components/MyFooter.vue";
 import MyHeader from "./components/MyHeader.vue";
+/*Bootstrap js*/
+import "bootstrap/dist/js/bootstrap.js";
 
 export default {
   name: "App",
@@ -22,4 +24,6 @@ export default {
 </script>
 
 <style>
+/*Bootstrap css*/
+@import "bootstrap/dist/css/bootstrap.css";
 </style>
