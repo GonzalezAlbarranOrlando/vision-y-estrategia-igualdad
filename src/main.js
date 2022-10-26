@@ -7,7 +7,6 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Inicio from './components/pages/Inicio.vue'
 import Contacto from './components/pages/Contacto.vue'
 import Nosotros from './components/pages/Nosotros.vue'
-createApp(App).mount('#app')
 
 // 2. Define some routes
 // Each route should map to a component.
