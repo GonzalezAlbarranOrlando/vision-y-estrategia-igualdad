@@ -1,3 +1,37 @@
 #app {
     font-family: Roboto;
 }
+
+/*narbar*/
+nav {
+    /*  f7f7f7 f1f1f1 f4f5f5 c2c6c7 */
+    background-color: #f4f5f5;
+}
+
+nav li b {
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    color: #68bccc;
+    font-size: 18px;
+}
+
+nav li p {
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    color: #68bccc;
+    font-size: 15px;
+    display: inline
+        /*avoid a new line*/
+}
+
+nav li i {
+    /* 61BDD0 60bccf 68bccc 488d9e*/
+    margin-right: 10px;
+    font-size: 18px;
+    color: #68bccc;
+}
+
+a.dropdown-toggle,
+a.dropdown-toggle::after {
+    color: #68bccc;
+}
+
+/*narbar end*/
