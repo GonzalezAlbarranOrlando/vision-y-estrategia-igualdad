@@ -2,20 +2,17 @@
   <div class="container">
     <!--Animated title-->
     <div class="animate-div">
-      <p class="animate__animated animate__slideInDown">Inicio</p>
+      <p class="animate__animated animate__slideInDown">Animated title</p>
     </div>
     <!--Animated title end-->
-    <br />
-    <router-link to="/template"> Template </router-link>
-    <br />
   </div>
 </template>
-
-<script>
+    
+    <script>
 export default {
-  name: "InicioPage",
+  name: "TemplatePage",
 };
 </script>
-
-<style>
+    
+    <style>
 </style>
