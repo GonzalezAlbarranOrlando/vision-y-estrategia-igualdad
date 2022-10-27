@@ -1,10 +1,8 @@
 <template>
   <MyHeader />
-  <br />
-  <br />
-  <router-view></router-view>
-  <br />
-  <br />
+  <div style="min-height: 700px">
+    <router-view></router-view>
+  </div>
   <MyFooter />
 </template>
 

@@ -88,3 +88,37 @@ select.form-select {
 }
 
 /*headings and texts end*/
+
+/*footer*/
+.footer-text {
+    background-color: #84b6b9;
+    color: white;
+    word-wrap: break-word;
+}
+
+.center {
+    /*border: 1px solid red;*/
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a.anchor-footer-text {
+    color: white;
+    text-decoration: none;
+}
+
+footer i {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.derechos-reservados {
+    background-color: #5f676f;
+    color: white;
+    text-align: center;
+    font-size: 11px;
+}
+
+/*footer end*/
