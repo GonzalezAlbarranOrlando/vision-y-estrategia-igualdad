@@ -35,3 +35,56 @@ a.dropdown-toggle::after {
 }
 
 /*narbar end*/
+
+/*headings and texts*/
+.animate-div {
+    font-size: 50px;
+    color: #5f676f;
+    text-align: center;
+    word-wrap: break-word;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1.my-h1 {
+    text-align: center;
+    color: #5f676f;
+    margin-bottom: 50px;
+}
+
+h2.my-h2 {
+    color: #68bccc;
+}
+
+div.general-text {
+    color: gray;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+a.download-here {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.download-text {
+    font-size: 25px;
+    color: #31586e;
+    text-decoration: none;
+}
+
+i.download-text {
+    font-size: 25px;
+    color: #31586e;
+}
+
+select.form-select {
+    text-align: center;
+    color: #5f676f;
+    background-color: #f4f5f5;
+    font-size: 25px;
+}
+
+/*headings and texts end*/

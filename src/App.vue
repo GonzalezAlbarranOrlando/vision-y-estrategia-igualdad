@@ -32,4 +32,6 @@ export default {
 @import "../node_modules/typeface-roboto/index.css";
 /*Font Awesome Web Application Icons*/
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+/*Animate.css*/
+@import "animate.css";
 </style>
