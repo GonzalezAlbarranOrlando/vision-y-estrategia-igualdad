@@ -13,37 +13,34 @@
             >
           </div>
           <div class="col-6 col-lg-3 center" style="text-align: center">
-            <i class="fa fa-building-o"></i>
-
-            <a href="tel:722-544-7945" class="anchor-footer-text"
-              >722-544-7945</a
-            >
+            <a href="tel:722-544-7945" class="anchor-footer-text">
+              <i class="fa fa-building-o"></i>
+            </a>
+            722-544-7945
             <br />
-            <i class="fa fa-volume-control-phone"></i>
-            <a href="tel:722-267-6413" class="anchor-footer-text"
-              >722-267-6413</a
-            >
-            <br />
-            <i class="fa fa-volume-control-phone"></i>
-            <a href="tel:722-387-5761" class="anchor-footer-text"
-              >722-387-5761</a
-            >
-            <br />
-            <i class="fa fa-whatsapp"></i>
+            <a href="tel:722-267-6413" class="anchor-footer-text">
+              <i class="fa fa-volume-control-phone"></i>
+            </a>
             <a
               href="https://api.whatsapp.com/send?phone=7222676413"
               class="anchor-footer-text"
               target="_blank"
-              >722-267-6413</a
             >
+              <i class="fa fa-whatsapp"></i>
+            </a>
+            722-267-6413
             <br />
-            <i class="fa fa-whatsapp"></i>
+            <a href="tel:722-387-5761" class="anchor-footer-text">
+              <i class="fa fa-volume-control-phone"></i>
+            </a>
             <a
               href="https://api.whatsapp.com/send?phone=7223875761"
               class="anchor-footer-text"
               target="_blank"
-              >722-387-5761</a
             >
+              <i class="fa fa-whatsapp"></i>
+            </a>
+            722-387-5761
           </div>
           <div class="col-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-map-marker"></i>
@@ -91,7 +88,21 @@
     </div>
   </div>
   <div class="container-fluid derechos-reservados">
-    Todos los derechos reservados.
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6" style="text-align: start">
+          Todos los derechos reservados.
+        </div>
+        <div class="col-sm-6" style="text-align: end">
+          <a
+            href="/pdf/AVISO DE PRIVACIDAD Y CONFIDENCIALIDAD.pdf"
+            download
+            class="download-footer"
+            >Aviso de privacidad y confidencialidad.</a
+          >
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
