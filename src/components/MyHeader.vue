@@ -32,12 +32,6 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item px-3">
-            <router-link class="nav-link active" aria-current="page" to="/">
-              <i class="fa fa-home"></i>
-              <b>Inicio</b>
-            </router-link>
-          </li>
-          <li class="nav-item px-3">
             <router-link class="nav-link" to="/nosotros">
               <i class="fa fa-users"></i>
               <b>Nosotros</b>
@@ -51,30 +45,31 @@
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              <i class="fa fa-bar-chart"></i>
-              <b>options</b>
+              <i class="fa fa-globe"></i>
+              <b>Servicios</b>
             </a>
             <ul class="dropdown-menu">
               <li>
                 <router-link class="dropdown-item" to="/">
-                  <p>opt1</p>
+                  <p>Norma Mexicana NMX 025</p>
                 </router-link>
               </li>
               <li>
                 <router-link class="dropdown-item" to="/">
-                  <p>opt2</p>
-                </router-link>
-              </li>
-              <li>
-                <router-link class="dropdown-item" to="/">
-                  <p>opt3</p>
+                  <p>Perspectiva de Género</p>
                 </router-link>
               </li>
             </ul>
           </li>
           <li class="nav-item px-3">
+            <router-link class="nav-link" to="/boletines">
+              <i class="fa fa-newspaper-o"></i>
+              <b>Boletines</b>
+            </router-link>
+          </li>
+          <li class="nav-item px-3">
             <router-link class="nav-link" to="/contacto">
-              <i class="fa fa-phone"></i>
+              <i class="fa fa-envelope-o"></i>
               <b>Contacto</b>
             </router-link>
           </li>
