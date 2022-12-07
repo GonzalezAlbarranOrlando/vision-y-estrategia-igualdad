@@ -9,6 +9,8 @@ import Contacto from './components/pages/Contacto.vue'
 import Nosotros from './components/pages/Nosotros.vue'
 import Template from './components/pages/Template.vue'
 import Boletines from './components/pages/Boletines.vue'
+import NMX_025 from './components/pages/servicios/NMX_025/NMX_025.vue'
+
 
 // 2. Define some routes
 // Each route should map to a component.
@@ -18,6 +20,7 @@ const routes = [
     { path: '/nosotros', component: Nosotros },
     { path: '/template', component: Template },
     { path: '/boletines', component: Boletines },
+    { path: '/NMX_025', component: NMX_025 },
 ]
 
 // 3. Create the router instance and pass the `routes` option

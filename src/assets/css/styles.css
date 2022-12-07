@@ -56,11 +56,21 @@ h2.my-h2 {
     color: #68bccc;
 }
 
+h3.my-h3 {
+    color: #5f676f;
+    text-align: center;
+}
+
 div.general-text {
-    color: gray;
+    color: #444444;
     text-align: justify;
     margin-top: 15px;
     margin-bottom: 25px;
+    word-wrap: break-word;
+}
+
+.general-text table{
+    color: #444444;
 }
 
 a.download-here {
@@ -81,7 +91,7 @@ i.download-text {
 }
 
 select.form-select {
-    text-align: center;
+    text-align: left;
     color: #5f676f;
     background-color: #f4f5f5;
     font-size: 25px;
@@ -123,6 +133,56 @@ div.derechos-reservados {
 
 /*footer end*/
 
+/* Capacitacion tables*/
+div.table-row {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
+div.table-title {
+    background-color: #31586e;
+    color: white;
+    text-align: center;
+    padding: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+
+div.table-white {
+    text-align: justify;
+    background-color: white;
+    border-style: none none none none;
+    border-width: 1px;
+    border-color: black;
+    padding: 7px;
+    word-wrap: break-word;
+}
+
+div.table-blue {
+    text-align: justify;
+    background-color: #a6c4ce;
+    border-style: none none none none;
+    border-width: 1px;
+    border-color: black;
+    padding: 7px;
+    word-wrap: break-word;
+}
+
+div.table-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul.ul-clean {
+    list-style-type: none;
+}
+
+/* Capacitacion tables end*/
+
 /*Accordion mood*/
 #accordionMood .accordion-button,
 #accordionCapacitacion .accordion-button {
@@ -156,3 +216,72 @@ div.derechos-reservados {
     background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
 }
 /*Acoordion Boletines end*/
+
+
+/*sidenav*/
+
+.sidenav {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #eeeeee;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    word-wrap: break-word;
+  }
+  
+  .sidenav a,
+  .sidenav button,
+  .sidenav b {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #444444;
+    display: block;
+    transition: 0.3s;
+    word-wrap: break-word;
+    border: none;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .sidenav a:hover,
+  .sidenav button:hover {
+    color: black;
+    background-color: #e4e4e4;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    width: 50px;
+    text-align: end;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {
+      padding-top: 15px;
+    }
+    .sidenav a {
+      font-size: 18px;
+    }
+  }
+  
+  .sidenav-blue {
+    background-color: #a6c4ce;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    word-wrap: break-word;
+  }
+/*sidenav end*/
+
+/* vertical center */
+div.ext-box { display: table; width:100%;}
+div.int-box { display: table-cell; vertical-align: middle; }
+/* vertical center end*/
