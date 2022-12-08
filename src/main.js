@@ -10,6 +10,7 @@ import Nosotros from './components/pages/Nosotros.vue'
 import Template from './components/pages/Template.vue'
 import Boletines from './components/pages/Boletines.vue'
 import NMX_025 from './components/pages/servicios/NMX_025/NMX_025.vue'
+import Perspectiva_de_genero from './components/pages/servicios/Perspectiva_de_genero/Perspectiva_de_genero.vue'
 
 
 // 2. Define some routes
@@ -21,6 +22,7 @@ const routes = [
     { path: '/template', component: Template },
     { path: '/boletines', component: Boletines },
     { path: '/NMX_025', component: NMX_025 },
+    { path: '/Perspectiva_de_g%C3%A9nero', component: Perspectiva_de_genero },
 ]
 
 // 3. Create the router instance and pass the `routes` option

@@ -58,7 +58,6 @@ h2.my-h2 {
 
 h3.my-h3 {
     color: #5f676f;
-    text-align: center;
 }
 
 div.general-text {
@@ -132,6 +131,18 @@ div.derechos-reservados {
 }
 
 /*footer end*/
+
+/* tables*/
+thead{
+    text-align: center;
+    background-color:#31586e;
+    color: white;
+}
+table.table-hover{
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+/* tables end*/
 
 /* Capacitacion tables*/
 div.table-row {

@@ -55,7 +55,10 @@
                 </router-link>
               </li>
               <li>
-                <router-link class="dropdown-item" to="/">
+                <router-link
+                  class="dropdown-item"
+                  to="/Perspectiva_de_g%C3%A9nero"
+                >
                   <p>Perspectiva de Género</p>
                 </router-link>
               </li>
