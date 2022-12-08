@@ -296,3 +296,13 @@ ul.ul-clean {
 div.ext-box { display: table; width:100%;}
 div.int-box { display: table-cell; vertical-align: middle; }
 /* vertical center end*/
+
+/*my shadow*/
+div.my-shadow {
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+/*my shadow end*/
