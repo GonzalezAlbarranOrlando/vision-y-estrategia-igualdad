@@ -98,6 +98,37 @@ select.form-select {
 
 /*headings and texts end*/
 
+/*form*/
+.error {
+    color: red;
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.obligatorio {
+    color: black;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+button.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #31586e;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+}
+
+/*form end*/
+
 /*footer*/
 .footer-text {
     background-color: #84b6b9;
@@ -125,9 +156,12 @@ footer i {
 
 div.derechos-reservados {
     background-color: #5f676f;
+    color: white;  
+}
+
+a.download-footer{
+    text-decoration: none;
     color: white;
-    text-align: center;
-    font-size: 11px;
 }
 
 /*footer end*/
@@ -143,6 +177,53 @@ table.table-hover{
     margin-bottom: 2em;
 }
 /* tables end*/
+
+/*cards*/
+div.card-header-nosotros {
+    text-align: center;
+    background-color: #a6c4ce;
+    color: black;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+#equipo .card-header-nosotros {
+    min-height: 230px;
+    width: 100%;
+    padding: 0 0 0 0;
+}
+
+div.card-body-nosotros {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 140px;
+    display: flex;
+    align-items: center;
+}
+
+div.card-body-transparencia {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 240px;
+}
+
+div.card-body-transparencia-descarga {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 140px;
+}
+
+div.card-body-equipo {
+    word-wrap: break-word;
+    text-align: justify;
+    min-height: 100px;
+}
+
+div #servicios .card-header{
+    min-height: 100px;
+}
+
+/*cards end*/
 
 /* Capacitacion tables*/
 div.table-row {
