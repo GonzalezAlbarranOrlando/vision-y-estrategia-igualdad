@@ -94,6 +94,7 @@
           Todos los derechos reservados.
         </div>
         <div class="col-sm-6" style="text-align: end">
+          <!--aviso de privacidad-->
           <a
             href="/pdf/AVISO DE PRIVACIDAD Y CONFIDENCIALIDAD.pdf"
             download
