@@ -223,6 +223,10 @@ div #servicios .card-header{
     min-height: 100px;
 }
 
+.card .embed-responsive, .card  .embed-responsive-21by9{
+    background-color: #31586e;
+}
+
 /*cards end*/
 
 /* Capacitacion tables*/
@@ -255,7 +259,7 @@ div.table-white {
 
 div.table-blue {
     text-align: justify;
-    background-color: #a6c4ce;
+    background-color: #d0e6ee;
     border-style: none none none none;
     border-width: 1px;
     border-color: black;

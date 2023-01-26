@@ -121,7 +121,7 @@
                 </li>
               </ol>
               <p>
-                En @Gobernova estamos preparando un Webinar gratuito para
+                En Visión y Estreategia estamos preparando un Webinar gratuito para
                 analizar a detalle los elementos que constituyen esta reforma de
                 ley, y cuál será su impacto real en la consolidación de acciones
                 para alcanzar una igualdad de género sustantiva. Te invitamos a
@@ -880,7 +880,7 @@
                 </li>
               </ol>
               <p>
-                En Gobernova hemos desarrollado un taller para el diseño de
+                En Visión y Estreategia hemos desarrollado un taller para el diseño de
                 programas municipales con perspectiva de género, con el fin de
                 brindar a las administraciones públicas los elementos teóricos,
                 técnicos y prácticos para un correcto diseño y ejecución de este

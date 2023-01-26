@@ -62,7 +62,7 @@
               <b>Horas de duración: </b>10 días 20 horas (2 por día)
             </div>
             <div class="table-blue">
-              <b>Fecha de realización: </b>Del 27 al 29 de abril y 2, 3, 4, 6, 9, 11 y 12 de mayo de 2022
+              <b>Fecha de realización: </b>Del 19 al 23 y del 26 al 30 de junio de 2023
             </div>
 
   </div>

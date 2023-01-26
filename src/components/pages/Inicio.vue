@@ -20,12 +20,24 @@
           data-bs-slide-to="1"
           aria-label="Slide 2"
         ></button>
+        <button
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="2"
+          aria-label="Slide 3"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="3"
+          aria-label="Slide 4"
+        ></button>
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="3000">
           <router-link to="/NMX_025">
             <img
-              src="@/assets/img/carrusel/NMX025.jpeg"
+              src="@/assets/img/carrusel/B-025.jpg"
               class="d-block w-100"
               alt="..."
             />
@@ -34,11 +46,25 @@
         <div class="carousel-item" data-bs-interval="3000">
           <router-link to="/Perspectiva_de_g%C3%A9nero">
             <img
-              src="@/assets/img/carrusel/perspectiva.jpeg"
+              src="@/assets/img/carrusel/B-perspectiva.jpg"
               class="d-block w-100"
               alt="..."
             />
           </router-link>
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">          
+            <img
+              src="@/assets/img/carrusel/carrusel-Centro-certificado-y-agente.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
+        </div>
+        <div class="carousel-item" data-bs-interval="3000">          
+            <img
+              src="@/assets/img/carrusel/carrusel-Centro-certificado.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
         </div>
       </div>
       <button
@@ -67,7 +93,7 @@
         <div class="card">
           <router-link to="/NMX_025" style="text-decoration: none">
             <img
-              src="@/assets/img/inicio/NMX025.jpeg"
+              src="@/assets/img/inicio/I-025.jpg"
               class="w-100"
               alt="..."
             />
@@ -94,7 +120,7 @@
             style="text-decoration: none"
           >
             <img
-              src="@/assets/img/inicio/perspectiva.jpeg"
+              src="@/assets/img/inicio/I-perspectiva.jpg"
               class="w-100"
               alt="..."
             />

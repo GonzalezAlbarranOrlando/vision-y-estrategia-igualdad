@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <h2 class="my-h2">Consultoría</h2>
     <h3 class="my-h3">
-      ¿Cómo podemos ayudarte en el bienestar y la aplicación de la PEG?
+      ¿Cómo podemos ayudarte en la aplicación de la PEG?
     </h3>
     <div class="general-text">
       <p>
