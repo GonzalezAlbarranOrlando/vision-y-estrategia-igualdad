@@ -12,11 +12,12 @@
               >informes@visionyestrategia.com.mx</a
             >
           </div>
-          <div class="col-6 col-lg-3 center" style="text-align: center">
-            <a href="tel:722-544-7945" class="anchor-footer-text">
-              <i class="fa fa-building-o"></i>
-            </a>
-            722-544-7945
+          <div class="col-6 col-lg-3 center" style="text-align: center">            
+            <i class="fa fa-building-o"></i>            
+            722-544-7945 Ext. 104
+            <br />
+            <i class="fa fa-building-o"></i>            
+            722-544-7945 Ext. 106
             <br />
             <a href="tel:722-267-6413" class="anchor-footer-text">
               <i class="fa fa-volume-control-phone"></i>
@@ -81,6 +82,13 @@
               target="_blank"
             >
               <i class="fa fa-twitter-square"></i>
+            </a>
+            <a
+              href="https://www.youtube.com/@vision_y_estrategia"
+              class="anchor-footer-text"
+              target="_blank"
+            >
+              <i class="fa fa-youtube-square"></i>
             </a>
           </div>
         </div>

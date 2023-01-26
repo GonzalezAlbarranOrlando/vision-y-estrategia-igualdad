@@ -33,7 +33,6 @@
         <ul class="navbar-nav">
           <li class="nav-item px-3">
             <router-link class="nav-link" to="/nosotros">
-              <i class="fa fa-users"></i>
               <b>Nosotros</b>
             </router-link>
           </li>
@@ -45,7 +44,6 @@
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              <i class="fa fa-globe"></i>
               <b>Servicios</b>
             </a>
             <ul class="dropdown-menu">
@@ -66,13 +64,11 @@
           </li>
           <li class="nav-item px-3">
             <router-link class="nav-link" to="/boletines">
-              <i class="fa fa-newspaper-o"></i>
               <b>Boletines</b>
             </router-link>
           </li>
           <li class="nav-item px-3">
             <router-link class="nav-link" to="/contacto">
-              <i class="fa fa-envelope-o"></i>
               <b>Contacto</b>
             </router-link>
           </li>

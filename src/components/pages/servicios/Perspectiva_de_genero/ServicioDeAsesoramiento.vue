@@ -7,7 +7,7 @@
       municipal en materia de Igualdad entre Mujeres y Hombres.
     </div>
     <h3 class="my-h3">
-      ¿Cuál es la atención que prestamos en atención a los programas federales y
+      ¿Cuál es el servicio que prestamos en atención a los programas federales y
       estatales con perspectiva de género?
     </h3>
     <div class="general-text">
