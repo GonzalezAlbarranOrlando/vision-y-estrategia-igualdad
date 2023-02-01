@@ -5,7 +5,7 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/transparencia/transparencia1.jpeg" class="w-100" alt="..." />
+          <img src="@/assets/img/transparencia/transparencia1.jpg" class="w-100" alt="..." />
           <div class="card-body ext-box" style="min-height: 320px;">
             <div class="int-box">
               <h3 class="my-h3">APOYO FINANCIERO</h3>
@@ -22,7 +22,7 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/transparencia/transparencia2.jpeg" class="w-100" alt="..." />
+          <img src="@/assets/img/transparencia/transparencia2.jpg" class="w-100" alt="..." />
           <div class="card-body ext-box" style="min-height: 320px;">
             <div class="int-box">
               <h3 class="my-h3">DERECHOS DE LOS SOLICITANTES</h3>
@@ -45,7 +45,7 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/transparencia/transparencia3.jpeg" class="w-100" alt="..." />
+          <img src="@/assets/img/transparencia/transparencia3.jpg" class="w-100" alt="..." />
           <div class="card-body ext-box" style="min-height: 200px;">
             <div class="int-box">
               <h3 class="my-h3">DERECHOS Y DEBERES DE LOS USUARIOS</h3>
@@ -54,7 +54,7 @@
                   Puedes descargar el contrato de prestación de servicios
                   <a
                       class="download-here"
-                      href="/pdf/Contrato de prestación de servicios NMX-025.pdf"
+                      href="/docx/Contrato de prestación de servicios NMX-025.docx"                      
                       target="_blank"
                     >
                       aquí </a
@@ -69,7 +69,7 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/transparencia/transparencia4.jpeg" class="w-100" alt="..." />
+          <img src="@/assets/img/transparencia/transparencia4.jpg" class="w-100" alt="..." />
           <div class="card-body ext-box" style="min-height: 200px;">
             <div class="int-box">
               <h3 class="my-h3">FORMATO DE QUEJAS</h3>
@@ -93,7 +93,7 @@
       <div class="col-sm-6 py-2">
         <!--card transparencia-->
         <div class="card">
-          <img src="@/assets/img/transparencia/transparencia5.jpeg" class="w-100" alt="..." />
+          <img src="@/assets/img/transparencia/transparencia5.jpg" class="w-100" alt="..." />
           <div class="card-body ext-box" style="min-height: 210px;">
             <div class="int-box">            
               <h3 class="my-h3">PROCEDIMIENTO DE QUEJAS</h3>
@@ -102,7 +102,7 @@
                   Puedes descargar el procedimiento de quejas
                   <a
                       class="download-here"
-                      href="/pdf/procedimiento de quejas NMX-025.pdf"
+                      href="/docx/procedimiento de quejas NMX-025.docx"
                       target="_blank"
                     >
                       aquí </a

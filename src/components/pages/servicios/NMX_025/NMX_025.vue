@@ -48,11 +48,23 @@
         class="text-truncate"
         v-on:click="
           selected_opt_NMX_R_025_SCFI_2015 =
+            'Inducción a la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación';
+          boolean_sidenav = false;
+        "
+      >
+        Inducción a la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y
+        No Discriminación
+      </button>
+      <button
+        class="text-truncate"
+        v-on:click="
+          selected_opt_NMX_R_025_SCFI_2015 =
             'Implantación de Norma Mexicana NMX-R-025-SCFI-2015 en centros de trabajo';
           boolean_sidenav = false;
         "
       >
-        Implantación de Norma Mexicana NMX-R-025-SCFI-2015 en centros de trabajo
+        Implantación de la Norma Mexicana NMX-R-025-SCFI-2015 en centros de
+        trabajo
       </button>
       <button
         class="text-truncate"
@@ -73,17 +85,6 @@
         "
       >
         Formación del equipo auditor
-      </button>
-      <button
-        class="text-truncate"
-        v-on:click="
-          selected_opt_NMX_R_025_SCFI_2015 =
-            'Inducción a la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación';
-          boolean_sidenav = false;
-        "
-      >
-        Inducción a la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y
-        No Discriminación
       </button>
     </div>
     <!--sidenav end-->

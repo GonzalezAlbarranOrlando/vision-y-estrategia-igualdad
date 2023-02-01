@@ -2,7 +2,7 @@
   <div class="container">
     
     <div class="col-12 table-title">
-              Nombre del Taller: Implantación de Norma Mexicana NMX-R-025-SCFI-2015 en centros de trabajo
+              Nombre del Taller: Implantación de la Norma Mexicana NMX-R-025-SCFI-2015 en centros de trabajo
             </div>
             <div class="table-white">
               <b>Objetivo:</b>
