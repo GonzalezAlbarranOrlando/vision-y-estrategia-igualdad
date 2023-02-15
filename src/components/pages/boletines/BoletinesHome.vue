@@ -10,7 +10,7 @@
     </nav>
     <!--Animated title-->
     <div class="animate-div">
-      <p class="animate__animated animate__slideInDown">Boletines TEST</p>
+      <p class="animate__animated animate__slideInDown">Boletines</p>
     </div>
     <!--Animated title end-->
     <div class="row justify-content-center" id="boletines">

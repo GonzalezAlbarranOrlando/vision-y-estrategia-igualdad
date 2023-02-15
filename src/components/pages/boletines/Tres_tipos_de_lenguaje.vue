@@ -6,7 +6,7 @@
           <router-link class="" to="/">Inicio</router-link>
         </li>
         <li class="breadcrumb-item">
-          <router-link class="" to="/boletinesTEST">Boletines</router-link>
+          <router-link class="" to="/boletines">Boletines</router-link>
         </li>
         <li class="breadcrumb-item active" aria-current="page">
           Tres tipos de lenguaje para la vida: el accesible, el incluyente y el

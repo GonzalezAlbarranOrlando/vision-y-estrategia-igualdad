@@ -68,11 +68,6 @@
             </router-link>
           </li>
           <li class="nav-item px-3">
-            <router-link class="nav-link" to="/boletinesTEST">
-              <b>Boletines TEST</b>
-            </router-link>
-          </li>
-          <li class="nav-item px-3">
             <router-link class="nav-link" to="/contacto">
               <b>Contacto</b>
             </router-link>

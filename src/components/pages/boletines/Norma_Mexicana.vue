@@ -6,7 +6,7 @@
           <router-link class="" to="/">Inicio</router-link>
         </li>
         <li class="breadcrumb-item">
-          <router-link class="" to="/boletinesTEST">Boletines</router-link>
+          <router-link class="" to="/boletines">Boletines</router-link>
         </li>
         <li class="breadcrumb-item active" aria-current="page">
           Norma Mexicana NMX-R-SCFI-2015; herramienta de competitividad
