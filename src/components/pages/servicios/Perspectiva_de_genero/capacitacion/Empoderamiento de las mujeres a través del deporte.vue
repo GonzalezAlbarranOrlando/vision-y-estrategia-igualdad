@@ -66,7 +66,7 @@
     </div>
     <div class="table-white"><b>Horas de duración: </b>3 días (9 horas)</div>
     <div class="table-blue">
-      <b>Fecha de realización: </b>Del 15, 16 y 17 de febrero de 2023
+      <b>Fecha de realización: </b>Del 10 al 12 de Abril
     </div>
   </div>
 </template>

@@ -83,7 +83,7 @@
     </div>
     <div class="table-white"><b>Horas de duración: </b>8 días (16 horas)</div>
     <div class="table-blue">
-      <b>Fecha de realización: </b>Del 9 al 13 y 16,17 y 18 de enero de 2023
+      <b>Fecha de realización: </b>Del 17 al 21 y del 24 al 26 de Abril de 2023
     </div>
   </div>
 </template>
