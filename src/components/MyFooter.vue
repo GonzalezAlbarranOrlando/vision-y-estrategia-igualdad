@@ -1,9 +1,9 @@
 <template>
   <div class="footer-text">
-    <div class="container py-3">
+    <div class="container-fluid py-3">
       <footer>
         <div class="row">
-          <div class="col-6 col-lg-3 center" style="text-align: center">
+          <div class="col-sm-12 col-md-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-envelope-o"></i>
             <br />
             <a
@@ -12,7 +12,7 @@
               >informes@visionyestrategia.com.mx</a
             >
           </div>
-          <div class="col-6 col-lg-3 center" style="text-align: center">            
+          <div class="col-sm-12 col-md-6 col-lg-3 center" style="text-align: center">            
             <i class="fa fa-building-o"></i>            
             722-544-7945 Ext. 104
             <br />
@@ -43,7 +43,7 @@
             </a>
             722-387-5761
           </div>
-          <div class="col-6 col-lg-3 center" style="text-align: center">
+          <div class="col-sm-12 col-md-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-map-marker"></i>
             <br />
             <a
@@ -54,7 +54,7 @@
               51350</a
             >
           </div>
-          <div class="col-6 col-lg-3 center" style="text-align: center">
+          <div class="col-sm-12 col-md-6 col-lg-3 center" style="text-align: center">
             <i class="fa fa-clock-o"></i>
             <br />
             9:00 a.m. - 6:00 p.m.

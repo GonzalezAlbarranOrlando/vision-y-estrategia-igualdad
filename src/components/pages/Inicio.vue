@@ -1,5 +1,5 @@
 <template>
-  <div class="container py-5">
+  <div class="container-fluid">
     <div
       id="carouselExampleIndicators"
       class="carousel slide carousel-dark my-shadow"

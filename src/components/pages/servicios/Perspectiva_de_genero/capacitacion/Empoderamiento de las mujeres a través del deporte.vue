@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <div class="table-title">
       Nombre del Curso: Empoderamiento de las mujeres a través del deporte.
     </div>
@@ -66,7 +66,7 @@
     </div>
     <div class="table-white"><b>Horas de duración: </b>3 días (9 horas)</div>
     <div class="table-blue">
-      <b>Fecha de realización: </b>Del 10 al 12 de Abril
+      <b>Fecha de realización: </b>Del 10 al 12 de Abril de 2023
     </div>
   </div>
 </template>

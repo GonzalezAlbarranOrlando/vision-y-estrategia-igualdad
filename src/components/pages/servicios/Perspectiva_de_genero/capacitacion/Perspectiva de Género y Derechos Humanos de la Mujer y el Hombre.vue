@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <div class="table-title">
       Nombre del Curso: Perspectiva de Género y Derechos Humanos de la Mujer y
       el Hombre
