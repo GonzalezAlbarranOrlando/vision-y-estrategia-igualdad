@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg">
     <div
-      class="container px-4 pb-3"
+      class="container-fluid px-4 pb-3"
       style="
         border-style: none none solid none;
         border-width: 1px;

@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     
     <div class="col-12 table-title">
               Nombre del Curso: Inducción a la Norma Mexicana NMX-R-025-SCFI-2015 en Igualdad Laboral y No Discriminación.

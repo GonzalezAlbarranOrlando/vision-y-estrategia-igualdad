@@ -1,5 +1,5 @@
 <template>
-  <div class="container">    
+  <div class="container-fluid">    
     <div class="col-12 table-title">
               Nombre del Taller: Herramientas para la mejora continua del centro de trabajo una vez certificado en Norma Mexicana NMX-R-025-SCFI-2015
             </div>

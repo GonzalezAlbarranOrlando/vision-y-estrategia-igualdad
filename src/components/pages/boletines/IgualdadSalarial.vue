@@ -1,5 +1,5 @@
 <template>
-  <div class="container mb-5">
+  <div class="container-fluid">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
@@ -20,7 +20,7 @@
       <div class="col-sm-4 text-center">
         <img
           src="@/assets/img/boletines/igualdad_salarial.jpeg"
-          class="w-75 mt-3"
+          class="w-100  my-3"
           alt="..."
         />
       </div>

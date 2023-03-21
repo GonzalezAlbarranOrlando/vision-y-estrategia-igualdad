@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     
     <div class="table-title">
       Nombre del Curso: Formación del equipo auditor

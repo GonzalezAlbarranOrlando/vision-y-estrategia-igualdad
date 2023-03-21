@@ -1,5 +1,5 @@
 <template>
-  <div class="container mb-5">
+  <div class="container-fluid">
     <!--Animated title-->
     <div class="animate-div">
       <p class="animate__animated animate__slideInDown">Nosotros</p>

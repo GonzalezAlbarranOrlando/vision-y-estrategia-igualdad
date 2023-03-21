@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container-fluid">
     <div class="table-title">
       Nombre: Asesoría y certificación de Norma Mexicana NMX-R-025-SCFI-2015 en
       Igualdad Laboral y No Discriminación

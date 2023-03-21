@@ -1,8 +1,8 @@
 <template>
   <div class="container-fluid">
     <h2 class="my-h2">Transparencia</h2>
-    <div class="row justify-content-around">
-      <div class="col-sm-6 py-2">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-11 col-xl-5 py-2">
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/transparencia/transparencia1.jpg" class="w-100" alt="..." />
@@ -19,7 +19,7 @@
         </div>
         <!--card transparencia end-->
       </div>
-      <div class="col-sm-6 py-2">
+      <div class="col-12 col-md-11 col-xl-5 py-2">
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/transparencia/transparencia2.jpg" class="w-100" alt="..." />
@@ -42,7 +42,7 @@
         </div>
         <!--card transparencia end-->
       </div>
-      <div class="col-sm-6 py-2">
+      <div class="col-12 col-md-11 col-xl-5 py-2">
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/transparencia/transparencia3.jpg" class="w-100" alt="..." />
@@ -66,7 +66,7 @@
         </div>
         <!--card transparencia end-->
       </div>
-      <div class="col-sm-6 py-2">
+      <div class="col-12 col-md-11 col-xl-5 py-2">
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/transparencia/transparencia4.jpg" class="w-100" alt="..." />
@@ -90,7 +90,7 @@
         </div>
         <!--card transparencia end-->
       </div>
-      <div class="col-sm-6 py-2">
+      <div class="col-12 col-md-11 col-xl-5 py-2">
         <!--card transparencia-->
         <div class="card">
           <img src="@/assets/img/transparencia/transparencia5.jpg" class="w-100" alt="..." />
