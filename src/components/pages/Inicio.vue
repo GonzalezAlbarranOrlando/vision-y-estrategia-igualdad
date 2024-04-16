@@ -30,7 +30,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="3000">
           <img
-            src="@/assets/img/carrusel/carrusel-centro-de-trabajo-certificado.jpg"
+            src="@/assets/img/carrusel/carousel.jpg"
             class="d-block w-100"
             alt="..."
           />

@@ -11,7 +11,7 @@
       <!--Logo-->
       <router-link aria-current="page" to="/">
         <img
-          src="@/assets/img/vision-y-estrategia.png"
+          src="@/assets/img/logo-vye.png"
           width="180"
           alt="logo"
         />
